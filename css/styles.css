@@ -251,7 +251,7 @@ Hero Area
   background-color: var(--green);
   color: white;
 }
-
+/* 
 .hero .right {
   flex: 0 0 50%;
   height: 100%;
@@ -292,7 +292,7 @@ Hero Area
 ======================
 Hero Media Query
 ======================
-*/
+*//*
 @media only screen and (max-width: 1500px) {
   .hero .left {
     left: 0;
@@ -338,7 +338,7 @@ Hero Media Query
     font-size: 1.5rem;
     width: 80%;
   }
-}
+} */
 
 /* Category Section */
 .section {
