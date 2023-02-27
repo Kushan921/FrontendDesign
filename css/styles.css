@@ -548,6 +548,7 @@ Hero Media Query
   position: relative;
   overflow: hidden;
   cursor: pointer;
+  border-radius: 20px;
   width: 100%;
 }
 
